@@ -11,4 +11,9 @@ A Python-based application that helps users simulate and track loan repayment sc
 - **Graphical Insights**: Generates a graph to visualize loan repayment progress.
 - **Error Handling**: Handles invalid inputs gracefully and provides actionable feedback.
 
+## Technologies Used
+- **Python 3.x
+- **Matplotlib: For graphical representation of loan repayment.
+
+
 
