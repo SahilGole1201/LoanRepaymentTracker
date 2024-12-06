@@ -11,11 +11,4 @@ A Python-based application that helps users simulate and track loan repayment sc
 - **Graphical Insights**: Generates a graph to visualize loan repayment progress.
 - **Error Handling**: Handles invalid inputs gracefully and provides actionable feedback.
 
----
 
-## Installation
-
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/<your-username>/Loan-Calculator-App.git
-   cd Loan-Calculator-App
